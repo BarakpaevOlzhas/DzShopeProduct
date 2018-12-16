@@ -1,0 +1,12 @@
+c:\users\user\source\repos\DzProduct\DzProduct\bin\Debug\DzProduct.exe.config
+c:\users\user\source\repos\DzProduct\DzProduct\bin\Debug\DzProduct.exe
+c:\users\user\source\repos\DzProduct\DzProduct\bin\Debug\DzProduct.pdb
+c:\users\user\source\repos\DzProduct\DzProduct\bin\Debug\EntityFramework.dll
+c:\users\user\source\repos\DzProduct\DzProduct\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\user\source\repos\DzProduct\DzProduct\bin\Debug\EntityFramework.xml
+c:\users\user\source\repos\DzProduct\DzProduct\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\user\source\repos\DzProduct\DzProduct\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\user\source\repos\DzProduct\DzProduct\obj\Debug\DzProduct.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\DzProduct\DzProduct\obj\Debug\DzProduct.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\DzProduct\DzProduct\obj\Debug\DzProduct.exe
+c:\users\user\source\repos\DzProduct\DzProduct\obj\Debug\DzProduct.pdb
